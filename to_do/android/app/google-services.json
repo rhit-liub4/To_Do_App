@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "755098948904",
+    "firebase_url": "https://liub4-photobucket-default-rtdb.firebaseio.com",
+    "project_id": "liub4-photobucket",
+    "storage_bucket": "liub4-photobucket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755098948904:android:22a3b1e86fe68dca3d2c1d",
+        "android_client_info": {
+          "package_name": "com.photobucket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755098948904-2hvvd23hs50cmt0akhip6i0kl3moffip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHXjHu9owZv_h583h51qCNG9mcV_S47Hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755098948904-2hvvd23hs50cmt0akhip6i0kl3moffip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
